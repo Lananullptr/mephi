@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1495642116 source:/home/lananull/Документы/mephi/lab4/lab.cpp
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<locale.h>
+	<dirent.h>
+

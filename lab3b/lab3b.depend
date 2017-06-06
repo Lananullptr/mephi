@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1495642226 source:/home/lananull/Документы/mephi/lab3b/lab3b.cpp
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+

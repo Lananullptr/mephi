@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491858412 source:/home/lananull/Документы/mephi/lab2/lab2.c
+	<stdio.h>
+	<malloc.h>
+	<locale.h>
+

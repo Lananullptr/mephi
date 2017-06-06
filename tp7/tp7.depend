@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1482245599 source:/home/lananull/Документы/mephi/tp7/tp7.c
+	<stdlib.h>
+	<stdio.h>
+

@@ -1,0 +1,8 @@
+15 apple
+7 banana
+2 ananas
+8 pear
+20 strawberry
+19 orange
+18 raspberry
+25 lime

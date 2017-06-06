@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491240793 source:/home/lananull/Документы/mephi/lab2_2/lab2_2.c
+	"stdio.h"
+	"stdlib.h"
+
